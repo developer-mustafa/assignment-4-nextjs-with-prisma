@@ -1,0 +1,6 @@
+GitHub Repo link:
+https://github.com/developer-mustafa/assignment-4-nextjs-with-prisma
+
+Live site Link:
+
+https://shoping-cart-nexjs-prisma-1.netlify.app/
